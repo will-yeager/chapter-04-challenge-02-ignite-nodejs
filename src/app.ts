@@ -1,3 +1,4 @@
+import { Request } from 'supertest';
 import 'reflect-metadata';
 import 'express-async-errors';
 
